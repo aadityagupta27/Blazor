@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = BlazorWasmApp
+build_property.RootNamespace = BlazorWasmApp
+build_property.ProjectDir = c:\Users\aaditya.gupta\OneDrive - Pure Software Pvt. Ltd\Documents\Blazor\Aaditya Gupta - BLAZOR\BlazorWasmApp\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\aaditya.gupta\OneDrive - Pure Software Pvt. Ltd\Documents\Blazor\Aaditya Gupta - BLAZOR\BlazorWasmApp
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/aaditya.gupta/OneDrive - Pure Software Pvt. Ltd/Documents/Blazor/Aaditya Gupta - BLAZOR/BlazorWasmApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/aaditya.gupta/OneDrive - Pure Software Pvt. Ltd/Documents/Blazor/Aaditya Gupta - BLAZOR/BlazorWasmApp/Pages/Characters.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hhcmFjdGVycy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/aaditya.gupta/OneDrive - Pure Software Pvt. Ltd/Documents/Blazor/Aaditya Gupta - BLAZOR/BlazorWasmApp/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/aaditya.gupta/OneDrive - Pure Software Pvt. Ltd/Documents/Blazor/Aaditya Gupta - BLAZOR/BlazorWasmApp/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/aaditya.gupta/OneDrive - Pure Software Pvt. Ltd/Documents/Blazor/Aaditya Gupta - BLAZOR/BlazorWasmApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/aaditya.gupta/OneDrive - Pure Software Pvt. Ltd/Documents/Blazor/Aaditya Gupta - BLAZOR/BlazorWasmApp/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/aaditya.gupta/OneDrive - Pure Software Pvt. Ltd/Documents/Blazor/Aaditya Gupta - BLAZOR/BlazorWasmApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/aaditya.gupta/OneDrive - Pure Software Pvt. Ltd/Documents/Blazor/Aaditya Gupta - BLAZOR/BlazorWasmApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jd7xkntopg
+
+[c:/Users/aaditya.gupta/OneDrive - Pure Software Pvt. Ltd/Documents/Blazor/Aaditya Gupta - BLAZOR/BlazorWasmApp/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-udmav2uv3f

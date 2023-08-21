@@ -1,0 +1,33 @@
+﻿@page "/home"
+@using Newtonsoft.Json
+@inject HttpClient client
+@using System.Text.Json
+
+
+<PageTitle>Index</PageTitle>
+
+<h1>Type your Name</h1>
+
+<input type="text" @bind="Name" placeholder="Type your Name"/>
+<input type="button" value="Predict my Nationality ?" @onclick="PredictNationality">
+
+@Name
+<div>
+    Your Nationality might be : @x  
+</div>
+
+@code{
+    
+    string ? Name;
+    string x;
+    private async void PredictNationality()
+    {
+        var response = await client.GetAsync($"https://api.nationalize.io/?name={Name}");
+        var temp =  await response.Content.ReadAsStringAsync();
+
+        var data = JsonConvert.DeserializeObject<dynamic>(temp);
+        x = data.country[0].country_id;
+        
+    }
+
+}
